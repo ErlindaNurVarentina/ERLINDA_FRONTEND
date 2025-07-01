@@ -9,13 +9,7 @@ function Home() {
           </p>
           <a href="#portfolio" className="btn btn-dark mt-3">Lihat Portofolio</a>
         </div>
-        <div className="col-md-6 text-center mt-4 mt-md-0">
-          <img
-            src="https://via.placeholder.com/250"
-            alt="Foto Profil"
-            className="rounded-circle img-fluid shadow"
-          />
-        </div>
+        
       </div>
     </div>
   );
