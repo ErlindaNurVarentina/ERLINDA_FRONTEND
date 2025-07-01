@@ -5,7 +5,7 @@ function Home() {
         <div className="col-md-6 text-start">
           <h1 className="display-4 fw-bold text-dark">Hallo!</h1>
           <p className="lead text-dark">
-            Nama Saya Erlinda Nur Varentina adalah <strong> saya mahasiswa STMIK WIDYA UTAMA yang berada di Purwokerto
+            Nama Saya Erlinda Nur Varentina adalah <strong>  saya mahasiswa STMIK WIDYA UTAMA yang berada di Purwokerto
           </p>
 
         </div>
