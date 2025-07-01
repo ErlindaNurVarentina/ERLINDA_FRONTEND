@@ -10,11 +10,7 @@ function Home() {
 
         </div>
         <div className="col-md-6 text-center">
-          <img
-            src="https://via.placeholder.com/250"
-            alt="Foto Profil"
-            className="rounded-circle img-fluid shadow"
-          />
+         
         </div>
       </div>
     </div>
