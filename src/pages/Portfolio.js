@@ -4,7 +4,7 @@ function Portfolio() {
   const [projects, setProjects] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/projects')
+    fetch('https://e7002740-f653-4ce9-8ff6-c677c26f48dc-00-1fbll13v9pbij.pike.replit.dev/api/projects')
       .then((res) => res.json())
       .then((data) => setProjects(data));
   }, []);
