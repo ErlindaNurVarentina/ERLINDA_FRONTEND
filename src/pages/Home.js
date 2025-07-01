@@ -5,7 +5,7 @@ function Home() {
         <div className="col-md-6 text-start">
           <h1 className="display-4 fw-bold text-dark">Hallo!</h1>
           <p className="lead text-dark">
-            Saya adalah <strong>Fullstack JavaScript Developer</strong> yang fokus pada membangun web modern dan cepat.
+            Saya adalah <strong>Mahasiswa STMIK WIDYA UTAMA</strong> yang berada di Purwokerto.
           </p>
           <a href="#portfolio" className="btn btn-dark mt-3">Lihat Portofolio</a>
         </div>
