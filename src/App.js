@@ -31,7 +31,7 @@ function App() {
       </div>
 <footer className="text-center mt-5">
   <hr />
-  <p>© 2025 Web Portfolio – Dibuat oleh Mas Ganteng</p>
+  <p>© 2025 Erlinda Nur Varentina</p>
 </footer>
 
     </Router>
